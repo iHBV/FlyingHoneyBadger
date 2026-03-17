@@ -12,7 +12,7 @@ If you discover a security vulnerability in FlyingHoneyBadger, please report it 
 
 **Do NOT open a public GitHub issue for security vulnerabilities.**
 
-Instead, please email: **security@ihbv.org**
+Instead, please email: **security@ihbv.io**
 
 Include:
 - Description of the vulnerability
